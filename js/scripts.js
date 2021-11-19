@@ -78,7 +78,7 @@ $(document).ready(function() {
 
     $("#button").click(function() {
         if (showCustomerMessage()) {
-            $("#message-alert").text("Hi " + showCustomerMessage() + ", \nThank you for reaching out to us, we will respond as soon as possible.");
+            $("#message-alert").text("Hi " + showCustomerMessage() + ", \nwe have received your message. Thank you for reaching out to us.");
             $("#message-alert").addClass("alert-success");
             $("#message-alert").removeClass("alert-danger");
             $("#message-alert").show();
