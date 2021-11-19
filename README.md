@@ -1,9 +1,9 @@
 # Delani-Studio
 
 ####  
-I am Arnoldblair Munene ,a student at Moringa school.
+Arnoldblair Munene.
 ####
- By  Arnoldblair Munene 
+ A student at Moringa School
 ## Description
 * Delani studio is a recreated landing page of a fictional studio. The aim is to use jQuery to increase interactivity of the page.
 
